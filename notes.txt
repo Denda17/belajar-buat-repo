@@ -1,0 +1,5 @@
+- git init => inisialisasi folder github
+- npm init => menjelaskan package yang dipakai di proyek kita
+- remote dengan git remote add origin <nama-dari-repo-githubnya>
+- git add . (prepare semua file yang terupdate untuk di upload ke github)
+- git commit -m "penjelasan file yang di upload"

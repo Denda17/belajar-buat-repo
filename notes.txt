@@ -5,3 +5,4 @@
 - git commit -m "penjelasan file yang di upload"
 - git push -u origin "nama branch (main)"
 - git checkout -b [nama brach baru] => membuat brach baru
+- git pull [nama branch] => upload file di lokal
